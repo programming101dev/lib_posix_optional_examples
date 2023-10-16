@@ -4,6 +4,4 @@ project(p101_posix_optional_examples_sys
         DESCRIPTION ""
         LANGUAGES C)
 
-message(STATUS "Compiler being used: ${CMAKE_C_COMPILER}")
-
 add_subdirectory(mman)
